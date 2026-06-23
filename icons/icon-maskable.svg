@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">ICS-214 Maskable PWA Icon</title>
+  <desc id="desc">Maskable-safe blue app icon with centered ICS-214 clipboard and radio tower symbol.</desc>
+  <rect width="1024" height="1024" fill="#082A5A"/>
+  <!-- safe-zone centered; no important content outside roughly 80% circle -->
+  <g transform="translate(64 58) scale(.88)">
+    <rect x="188" y="262" width="648" height="610" rx="54" fill="#fff"/>
+    <rect x="222" y="300" width="580" height="528" rx="22" fill="#082A5A"/>
+    <rect x="246" y="324" width="532" height="480" rx="14" fill="#fff"/>
+    <rect x="352" y="202" width="320" height="122" rx="34" fill="#fff"/>
+    <circle cx="512" cy="202" r="54" fill="#fff"/>
+    <circle cx="512" cy="204" r="30" fill="#082A5A"/>
+    <text x="512" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="800" fill="#082A5A">ICS-214</text>
+    <rect x="298" y="492" width="428" height="14" rx="3" fill="#E1262F"/>
+    <g fill="#082A5A"><rect x="300" y="570" width="54" height="54" rx="9"/><rect x="396" y="588" width="326" height="18" rx="9"/><rect x="300" y="654" width="54" height="54" rx="9"/><rect x="396" y="672" width="326" height="18" rx="9"/><rect x="300" y="738" width="54" height="54" rx="9"/><rect x="396" y="756" width="262" height="18" rx="9"/></g>
+    <path d="M704 804h74v-74z" fill="#D9DEE7"/>
+    <g transform="translate(724 130)">
+      <circle cx="130" cy="88" r="26" fill="#FFC20E"/><path d="M130 114 L82 286 H178 Z" fill="#FFC20E"/>
+      <path d="M130 142 L104 260 M130 142 L156 260 M98 226 L162 226 M108 190 L152 190" fill="none" stroke="#082A5A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M70 110 C38 148 38 196 70 234M38 82 C-10 140 -10 204 38 262M190 110 C222 148 222 196 190 234M222 82 C270 140 270 204 222 262" fill="none" stroke="#FFC20E" stroke-width="18" stroke-linecap="round"/>
+      <path d="M64 0 L116 76 H84 L114 142 L42 52 H78 ZM196 0 L144 76 H176 L146 142 L218 52 H182 Z" fill="#FFC20E"/>
+    </g>
+  </g>
+</svg>

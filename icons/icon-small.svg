@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">ICS-214 Small Size Optimized Icon</title>
+  <rect width="1024" height="1024" rx="176" fill="#082A5A"/>
+  <rect x="202" y="250" width="620" height="626" rx="60" fill="#fff"/>
+  <rect x="248" y="314" width="528" height="500" rx="22" fill="#fff" stroke="#082A5A" stroke-width="28"/>
+  <rect x="354" y="188" width="316" height="132" rx="38" fill="#fff"/>
+  <circle cx="512" cy="190" r="58" fill="#fff"/>
+  <circle cx="512" cy="196" r="32" fill="#082A5A"/>
+  <text x="512" y="488" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="900" fill="#082A5A">214</text>
+  <rect x="320" y="534" width="384" height="20" rx="4" fill="#E1262F"/>
+  <g fill="#082A5A"><rect x="320" y="625" width="70" height="70" rx="12"/><rect x="430" y="649" width="280" height="24" rx="12"/><rect x="320" y="730" width="70" height="70" rx="12"/><rect x="430" y="754" width="230" height="24" rx="12"/></g>
+  <g transform="translate(682 112) scale(1.05)">
+    <circle cx="130" cy="88" r="28" fill="#FFC20E"/><path d="M130 116 L82 292 H178 Z" fill="#FFC20E"/>
+    <path d="M74 110 C44 148 44 196 74 234M42 82 C-2 140 -2 204 42 262M186 110 C216 148 216 196 186 234M218 82 C262 140 262 204 218 262" fill="none" stroke="#FFC20E" stroke-width="20" stroke-linecap="round"/>
+  </g>
+</svg>

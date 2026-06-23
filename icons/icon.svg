@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">ICS-214 Activity Log App Icon</title>
+  <desc id="desc">Blue rounded square app icon with ICS-214 clipboard and amateur radio tower signal symbol.</desc>
+  <defs>
+    <style>
+      .navy{fill:#082A5A}.white{fill:#fff}.red{fill:#E1262F}.gold{fill:#FFC20E}.gray{fill:#D9DEE7}
+      .navyStroke{stroke:#082A5A}.goldStroke{stroke:#FFC20E}.whiteStroke{stroke:#fff}
+      .round{stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
+
+  <!-- app background -->
+  <rect width="1024" height="1024" rx="176" class="navy"/>
+
+  <!-- clipboard backing frame -->
+  <rect x="188" y="262" width="648" height="610" rx="54" class="white"/>
+  <rect x="222" y="300" width="580" height="528" rx="22" class="navy"/>
+  <rect x="246" y="324" width="532" height="480" rx="14" class="white"/>
+
+  <!-- top clip -->
+  <rect x="352" y="202" width="320" height="122" rx="34" class="white"/>
+  <circle cx="512" cy="202" r="54" class="white"/>
+  <circle cx="512" cy="204" r="30" class="navy"/>
+  <rect x="384" y="272" width="256" height="28" rx="14" class="navy" opacity="0.12"/>
+
+  <!-- header text -->
+  <text x="512" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="118" font-weight="800" class="navy">ICS-214</text>
+  <rect x="298" y="492" width="428" height="14" rx="3" class="red"/>
+
+  <!-- checklist rows -->
+  <g class="navy">
+    <rect x="300" y="570" width="54" height="54" rx="9"/>
+    <rect x="396" y="588" width="326" height="18" rx="9"/>
+    <rect x="300" y="654" width="54" height="54" rx="9"/>
+    <rect x="396" y="672" width="326" height="18" rx="9"/>
+    <rect x="300" y="738" width="54" height="54" rx="9"/>
+    <rect x="396" y="756" width="262" height="18" rx="9"/>
+  </g>
+
+  <!-- folded page corner -->
+  <path d="M704 804h74v-74z" class="gray"/>
+  <path d="M778 730v74h-74z" fill="#C4CBD6" opacity="0.72"/>
+
+  <!-- radio tower emblem, drawn as simple reliable SVG geometry -->
+  <g transform="translate(724 130)">
+    <!-- mast -->
+    <circle cx="130" cy="88" r="26" class="gold"/>
+    <path d="M130 114 L82 286 H178 Z" class="gold"/>
+    <path d="M130 142 L104 260 M130 142 L156 260 M98 226 L162 226 M108 190 L152 190" fill="none" stroke="#082A5A" stroke-width="12" class="round"/>
+
+    <!-- radio waves -->
+    <path d="M70 110 C38 148 38 196 70 234" fill="none" stroke="#FFC20E" stroke-width="18" class="round"/>
+    <path d="M38 82 C-10 140 -10 204 38 262" fill="none" stroke="#FFC20E" stroke-width="18" class="round"/>
+    <path d="M190 110 C222 148 222 196 190 234" fill="none" stroke="#FFC20E" stroke-width="18" class="round"/>
+    <path d="M222 82 C270 140 270 204 222 262" fill="none" stroke="#FFC20E" stroke-width="18" class="round"/>
+
+    <!-- lightning bolts -->
+    <path d="M64 0 L116 76 H84 L114 142 L42 52 H78 Z" class="gold"/>
+    <path d="M196 0 L144 76 H176 L146 142 L218 52 H182 Z" class="gold"/>
+  </g>
+</svg>
