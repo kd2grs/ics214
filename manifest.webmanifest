@@ -9,24 +9,6 @@
   "start_url": ".",
   "icons": [
     {
-      "src": "icons/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-maskable.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "maskable"
-    },
-    {
-      "src": "icons/icon-monochrome.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "monochrome"
-    },
-    {
       "src": "icons/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png",
@@ -97,6 +79,21 @@
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/desktop-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ICS-214 form list on desktop"
+    },
+    {
+      "src": "screenshots/mobile-narrow.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "label": "ICS-214 form list on mobile"
     }
   ]
 }
