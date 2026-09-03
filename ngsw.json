@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1788452563714,
+  "timestamp": 1788456423510,
   "index": "/ics214/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,7 @@
         "/ics214/index.html",
         "/ics214/main-22QYPWYN.js",
         "/ics214/manifest.webmanifest",
-        "/ics214/styles-GYOUG2BC.css"
+        "/ics214/styles-BDT5CHWE.css"
       ],
       "patterns": []
     },
@@ -52,17 +52,16 @@
       "patterns": []
     },
     {
-      "name": "external-fonts",
-      "installMode": "lazy",
+      "name": "local-fonts",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
-      "urls": [],
-      "patterns": [
-        "https:\\/\\/fonts\\.googleapis\\.com\\/.*",
-        "https:\\/\\/fonts\\.gstatic\\.com\\/.*"
-      ]
+      "urls": [
+        "/ics214/fonts/material-icons.woff2"
+      ],
+      "patterns": []
     }
   ],
   "dataGroups": [],
@@ -73,6 +72,7 @@
     "/ics214/chunk-GPXMSDNG.js": "1a48f7a7bc778bb84d553e8e0c9a1a2b4f23f174",
     "/ics214/chunk-MJAV6IYW.js": "acac7f3014887b9858dd647950223198dd04f8ef",
     "/ics214/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/ics214/fonts/material-icons.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/ics214/icons/icon-128x128.png": "124837740c0e90a62e902bc8eb8aac20f1f9fd6e",
     "/ics214/icons/icon-144x144.png": "d176d35894c27191f2c50954aea321f0c930f44f",
     "/ics214/icons/icon-152x152.png": "ca50900a061dc2cf50d563ec834fea905a9b7957",
@@ -89,10 +89,10 @@
     "/ics214/icons/icon.svg": "c64959e5c86da5da5e8a4183c870ad6677f21741",
     "/ics214/icons/maskable-icon-192x192.png": "f65f29ac089d39d546fb6e863ef8b32e2ef483ad",
     "/ics214/icons/maskable-icon-512x512.png": "232e4e6716cc11cfed30106e68fc216e28d536ae",
-    "/ics214/index.html": "2b838dc1d945a3a7adf2ceebb4ce2c7cd57d54e4",
+    "/ics214/index.html": "0a15116e6508722a00725c96f79c080cb8303331",
     "/ics214/main-22QYPWYN.js": "04de6920fe8ab1b60883f21ffbfa8a1114bb7d37",
     "/ics214/manifest.webmanifest": "316375b054747b2418faf2690ffdea1717241dd6",
-    "/ics214/styles-GYOUG2BC.css": "7061e685e9bd756c45bb1756dfcfdbd606f54473"
+    "/ics214/styles-BDT5CHWE.css": "4f2fdf5bbfe942e117de5527e0e2ebf60d47762a"
   },
   "navigationUrls": [
     {
