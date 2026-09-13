@@ -1,6 +1,6 @@
 # ICS-214
 
-This repository contains the published static files for the ICS-214 progressive web application (PWA). The application is written in Angular with TypeScript.
+This repository contains the published static files for the ICS-214 progressive web application (PWA). The application is written in Angular with TypeScript. 
 
 Application:
 https://kd2grs.github.io/ics214/
